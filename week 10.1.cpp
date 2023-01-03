@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    int n;
+ 
     std::cout << "Enter N value:" << std::endl;
     cin>>n;
     int arr[n];
